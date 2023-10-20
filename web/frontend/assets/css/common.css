@@ -1,0 +1,7 @@
+.inlineIcon {
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    width: 220px;
+    text-align: right;
+}
+
